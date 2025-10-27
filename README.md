@@ -1,18 +1,18 @@
 <h1 align="center">⚙️ Cibersecurity researcher in operational technology ⚡</h1>
 
 <!-- avatar alinhado à direita -->
-<img align="right" width="160" src="assets/avatar.png" alt="avatar">
+<img align="right" width="130" src="Assets/hacker.png" alt="avatar">
 
 ---
 
 <!-- Linha de ícones (use imagens em assets/ ou links públicos) -->
 <p>
-  <img src="Assets/icons/python_18894.png" width="40" />&nbsp;
-  <img src="Assets/icons/linux.png" width="40" />&nbsp;
-  <img src="Assets/icons/node-red.png" width="40" />&nbsp;
-  <img src="Assets/icons/c++.png" width="40" />&nbsp;
-  <img src="Assets/icons/Windows.png" width="40" />&nbsp;
-  <img src="Assets/icons/matlab.png" width="40" />&nbsp;
+  <img src="Assets/icons/python_18894.png" width="50" />&nbsp;
+  <img src="Assets/icons/linux.png" width="50" />&nbsp;
+  <img src="Assets/icons/node-red.png" width="50" />&nbsp;
+  <img src="Assets/icons/c++.png" width="50" />&nbsp;
+  <img src="Assets/icons/Windows.png" width="50" />&nbsp;
+  <img src="Assets/icons/matlab.png" width="50" />&nbsp;
 </p>
 
 ---
